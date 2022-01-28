@@ -1,0 +1,14 @@
+{
+  "name": "crypto-converter",
+  "version": "1.0.0",
+  "main": "bin/index.js",
+  "bin": {
+    "coin": "./bin/index.js"
+  },
+  "author": "Antonio Martin",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "yargs": "^17.3.1"
+  }
+}
